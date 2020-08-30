@@ -1,0 +1,10 @@
+C:\Users\lzm\Desktop\image_encoder\image_encoder\imgs\0001.jpeg 
+tt.webp
+1.webp
+2.webp
+3.webp
+C:\Users\lzm\Desktop\image_encoder\image_encoder\imgs\0002.jpeg 
+C:\Users\lzm\Desktop\image_encoder\image_encoder\imgs\0003.jpeg 
+C:\Users\lzm\Desktop\image_encoder\image_encoder\imgs\0004.jpeg 
+C:\Users\lzm\Desktop\image_encoder\image_encoder\imgs\t1.gif 
+C:\Users\lzm\Desktop\image_encoder\image_encoder\imgs\t2.gif 
